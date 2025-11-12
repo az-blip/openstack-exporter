@@ -101,11 +101,11 @@
             "description": null,
             "domain_id": "default",
             "enabled": true,
-            "id": "bab7d5c60cd041a0a36f7c4b6e1dd978",
+            "id": "fdb8424c4e4f4c0ba32c52e2de3bd80e",
             "links": {
-                "self": "http://example.com/identity/v3/projects/bab7d5c60cd041a0a36f7c4b6e1dd978"
+                "self": "http://example.com/identity/v3/projects/fdb8424c4e4f4c0ba32c52e2de3bd80e"
             },
-            "name": "awesome-project",
+            "name": "alt_demo",
             "parent_id": null,
             "tags": []
         },
@@ -114,11 +114,11 @@
             "description": null,
             "domain_id": "default",
             "enabled": true,
-            "id": "fdb8424c4e4f4c0ba32c52e2de3bd80e",
+            "id": "bab7d5c60cd041a0a36f7c4b6e1dd978",
             "links": {
-                "self": "http://example.com/identity/v3/projects/fdb8424c4e4f4c0ba32c52e2de3bd80e"
+                "self": "http://example.com/identity/v3/projects/bab7d5c60cd041a0a36f7c4b6e1dd978"
             },
-            "name": "alt_demo",
+            "name": "demo_with_attachment",
             "parent_id": null,
             "tags": []
         }
