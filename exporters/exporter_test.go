@@ -68,6 +68,7 @@ var fixtures map[string]string = map[string]string{
 	"/compute/limits?tenant_id=43ebde53fc314b1c9ea2b8c5dc744927": "nova_os_limits",
 	"/compute/limits?tenant_id=4b1eb781a47440acb8af9850103e537f": "nova_os_limits",
 	"/compute/limits?tenant_id=5961c443439d4fcebe42643723755e9d": "nova_os_limits",
+	"/compute/limits?tenant_id=bab7d5c60cd041a0a36f7c4b6e1dd978": "nova_os_limits",
 	"/compute/limits?tenant_id=fdb8424c4e4f4c0ba32c52e2de3bd80e": "nova_os_limits",
 	"/compute/limits?tenant_id=bab7d5c60cd041a0a36f7c4b6e1dd978": "nova_os_limits",
 	"/compute/servers/detail?all_tenants=true":                   "nova_os_servers",
